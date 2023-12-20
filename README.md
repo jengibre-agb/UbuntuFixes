@@ -1,2 +1,3 @@
-# UbuntuFixes
-No need for a description
+# Linux Fixes
+
+Tested on Ubuntu and Mint
